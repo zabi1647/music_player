@@ -25,7 +25,7 @@ To run this app on your device or simulator, follow these steps:
 2. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/music-player-app.git
+   git clone https://github.com/your-username/music_player.git
    ```
 
 3. Change your working directory to the project folder:
