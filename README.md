@@ -31,7 +31,7 @@ To run this app on your device or simulator, follow these steps:
 3. Change your working directory to the project folder:
 
    ```
-   cd music-player-app
+   cd music_player
    ```
 
 4. Get the dependencies:
